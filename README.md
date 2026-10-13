@@ -68,6 +68,8 @@ A modular, production-grade **Retrieval-Augmented Generation (RAG)** pipeline de
          ▼
   [ RAGResponse ] ──► Strict JSON contract with source attributions
 
+----
+
 ## 🛠️ Quick Start Guide
 # 1. Prerequisites
 Python 3.10+
